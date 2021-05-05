@@ -1,2 +1,3 @@
 Is python setup,  actions/setup-python, 0
 Is runnuer ubuntu,  ubuntu-latest,  0
+Is Pip upgraded, python -m pip install --upgrade pip, 0
