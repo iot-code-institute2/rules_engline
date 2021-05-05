@@ -1,9 +1,9 @@
-Is python setup,  actions/setup-python, 0
-Is runnuer ubuntu,  ubuntu-latest, 0
-Is twine, python -m pip install --upgrade pip, 0
-Is build distribution ready#1, pip install setuptools wheel, 0
-Is build distribution ready#1, python setup.py sdist, 0
-Is application publised testpypi#1, pip install twine, 0
-Is application publised testpypi#2, twine upload, 0
-Is slack action used,action-slack, 0
-Is slack hook, SLACK_WEBHOOK_URL, 0
+Is python setup,actions/setup-python,PASS,0
+Is runnuer ubuntu,ubuntu-latest, PASS,0
+Is twine,python -m pip install --upgrade pip,PASS,0
+Is build distribution ready#1,pip install setuptools wheel,PASS,0
+Is build distribution ready#1,python setup.py sdist,MERIT,0
+Is application publised testpypi#1,pip install twine,MERIT,0
+Is application publised testpypi#2,twine upload,MERIT,0
+Is slack action used,action-slack,DISTINCTION,0
+Is slack hook, SLACK_WEBHOOK_URL,DISTINCTION,0
