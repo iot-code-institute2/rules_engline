@@ -1,4 +1,13 @@
+#
+# Assement Criteria,  Expected Result,  Grade Level
+#
+
+# Pass
 Is python setup,actions/setup-python,PASS,0
+
+# Merit
 Is runnuer ubuntu,ubuntu-latest,MERIT,0
 Is OS version detected,uname -a,MERIT,0
+
+# Distinction
 Is Pip upgraded, PYTon -m pip install --upgrade pip,DISTINCTION,0
